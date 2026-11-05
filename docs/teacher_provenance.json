@@ -1,0 +1,25 @@
+{
+  "engine_commit": "1387d11312190ec66665d361ff07a7c70221b78a",
+  "networks_commit": "7eeb19b55219a48138756293f92211a1539bab4d",
+  "weight_sha256": "6bc0d1b0ff8e1d857f7f412923cd458f38f1a435087c91ae71fec3676c23ef62",
+  "original_supported_sizes": [
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22
+  ],
+  "experimental_size": 12,
+  "patch": "training/build_teacher.sh permits 12 if weights support 13; no rule or geometry change",
+  "teacher_source": "https://github.com/dotb1ue/rapfi",
+  "weights_source": "https://github.com/dotb1ue/rapfi-networks",
+  "teacher_code_license": "GPL-3.0-or-later; not copied into submission",
+  "teacher_weight_license": "CC0 (Networks/LICENSE)",
+  "labels": "neural policy logits from TRACEBOARD / ScoreScale 32; no teacher search distillation",
+  "dataset": "3245 side-relative D4-deduplicated positions; group split by opponent; train2397 val848"
+}

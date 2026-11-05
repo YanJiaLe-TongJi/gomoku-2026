@@ -1,0 +1,36 @@
+{
+  "submission_number": 11,
+  "source": "src/brain.cpp",
+  "source_bytes": 314981,
+  "source_sha256": "b8fe185c72e1ea5c5ef66fe055fa4dd8d8e150d7b72c0db7c1f9c7bef1bbe2f4",
+  "components": {
+    "search": "self-authored v5",
+    "root_policy": "c64 int8",
+    "opening_book_positions": 2098,
+    "move_budget_ms": 1100,
+    "search_total_budget_ms": 85000
+  },
+  "recorded_at_shanghai": "2026-11-05 21:19",
+  "online_snapshot": {
+    "rank": 8,
+    "score": 158,
+    "match_wins": 45,
+    "match_losses": 5,
+    "match_draws": 23
+  },
+  "fixed_opponent_comparison": {
+    "matches": 73,
+    "previous_points": 151,
+    "current_points": 160,
+    "delta": 9,
+    "new_book_target_delta": 4
+  },
+  "round_audit": {
+    "rounds": 150,
+    "legal_moves": 5977,
+    "own_abnormal_exits": 0,
+    "max_own_turn_ms": 1111,
+    "max_own_total_ms": 59149
+  },
+  "note": "Historical snapshot, not a live leaderboard. Raw opponent records and server configuration are not distributed."
+}

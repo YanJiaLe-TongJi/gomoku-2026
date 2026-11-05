@@ -1,0 +1,107 @@
+[
+  {
+    "old_path": "brain.cpp",
+    "new_path": "archive/engines/brain.cpp",
+    "sha256": "5e4902fe128aa8283564400355211458d487f823b908dbd6491598907a337f56"
+  },
+  {
+    "old_path": "brain_book_expanded.cpp",
+    "new_path": "archive/engines/brain_book_expanded.cpp",
+    "sha256": "d947cdd4f77c57abf38c01bb51895fada6f9fcff39c53621b22b751d4913ea75"
+  },
+  {
+    "old_path": "brain_book_expanded_v2.cpp",
+    "new_path": "archive/engines/brain_book_expanded_v2.cpp",
+    "sha256": "07858d0ed0950a59f5086c60e525d042a47eeea5e4eda77c94673bb55ce79b91"
+  },
+  {
+    "old_path": "brain_book_expanded_v3.cpp",
+    "new_path": "archive/engines/brain_book_expanded_v3.cpp",
+    "sha256": "b8fe185c72e1ea5c5ef66fe055fa4dd8d8e150d7b72c0db7c1f9c7bef1bbe2f4"
+  },
+  {
+    "old_path": "brain_direct_rl.cpp",
+    "new_path": "archive/engines/brain_direct_rl.cpp",
+    "sha256": "1328c481bd6e811c87a96ee0953a6cd366a7f5ba4d12d187fa731bc3508a93c2"
+  },
+  {
+    "old_path": "brain_direct_sl.cpp",
+    "new_path": "archive/engines/brain_direct_sl.cpp",
+    "sha256": "9bd8949c030a1a5e70db63fd365bf886d935b55433a701f90a0991507924baf8"
+  },
+  {
+    "old_path": "brain_distilled.cpp",
+    "new_path": "archive/engines/brain_distilled.cpp",
+    "sha256": "c23d37e27c2b708c1a55b12c5d7339da7acab457a8fc369f786f48cba3988cf8"
+  },
+  {
+    "old_path": "brain_distilled_64.cpp",
+    "new_path": "archive/engines/brain_distilled_64.cpp",
+    "sha256": "bb35ef8b1399ea794c933b80928bdebe95319d0f0ae08c413bbc8d954b532201"
+  },
+  {
+    "old_path": "brain_distilled_96.cpp",
+    "new_path": "archive/engines/brain_distilled_96.cpp",
+    "sha256": "0a0b963677a79baceb6c81cdae61f2aee35803bd159a18057edcbe334bc9058e"
+  },
+  {
+    "old_path": "brain_search.cpp",
+    "new_path": "archive/engines/brain_search.cpp",
+    "sha256": "d834d2763e5662ec2b68778ad7bbd4f2fb3d6042413306497f3146664825e4a8"
+  },
+  {
+    "old_path": "brain_search_book.cpp",
+    "new_path": "archive/engines/brain_search_book.cpp",
+    "sha256": "a14f364462295c9beafa49e13d292c84e9f565b50858eb7e2f0a96e678f75e65"
+  },
+  {
+    "old_path": "brain_search_book_v5.cpp",
+    "new_path": "archive/engines/brain_search_book_v5.cpp",
+    "sha256": "4ce53071db7f4272ce36de1b7a04344e7008520aaea9c0e49ef345d11e3cd967"
+  },
+  {
+    "old_path": "brain_search_book_v6.cpp",
+    "new_path": "archive/engines/brain_search_book_v6.cpp",
+    "sha256": "31a08b7a10259f28cc5021222f7d11df17062b419e810654d648331e0c5652aa"
+  },
+  {
+    "old_path": "brain_search_book_v6_corrections.cpp",
+    "new_path": "archive/engines/brain_search_book_v6_corrections.cpp",
+    "sha256": "3efe77c0a2701fe8120b41e626a8a26c62e217bb8fec5b310628613e815021e6"
+  },
+  {
+    "old_path": "brain_search_book_v7.cpp",
+    "new_path": "archive/engines/brain_search_book_v7.cpp",
+    "sha256": "d80b99f85c822af6db693624288815ab3ad50775206dcc1a70bec627ad13eba1"
+  },
+  {
+    "old_path": "brain_search_v3.cpp",
+    "new_path": "archive/engines/brain_search_v3.cpp",
+    "sha256": "beaff4bceca5fd43b562cb4a508130c2234680512f32d4792ed28016bdb75413"
+  },
+  {
+    "old_path": "brain_search_v4.cpp",
+    "new_path": "archive/engines/brain_search_v4.cpp",
+    "sha256": "aa6bbf28301e8774cd104b0f38232eade8daadfacd1d2a19c170119dfe6fde6f"
+  },
+  {
+    "old_path": "brain_search_v4_shape.cpp",
+    "new_path": "archive/engines/brain_search_v4_shape.cpp",
+    "sha256": "1854a5814baedae02880dd93c184b718c8263016485b174d0c8cf2317a7dc376"
+  },
+  {
+    "old_path": "brain_search_v5.cpp",
+    "new_path": "archive/engines/brain_search_v5.cpp",
+    "sha256": "87f0014b6d3e4a8f45118cbae0e64bae4808d303d85b1a97837d608fa8df0c9e"
+  },
+  {
+    "old_path": "brain_search_v6.cpp",
+    "new_path": "archive/engines/brain_search_v6.cpp",
+    "sha256": "5ba676f937619ac98f55438553a4fc224014b1e8b231fbc48236b74489ee5a87"
+  },
+  {
+    "old_path": "brain_search_value.cpp",
+    "new_path": "archive/engines/brain_search_value.cpp",
+    "sha256": "bf18ac81c4d4ffa162028f8fc5b6295a5b0759d8daa28e773e2466c33c471a18"
+  }
+]

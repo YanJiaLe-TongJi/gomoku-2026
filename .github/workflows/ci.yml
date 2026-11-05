@@ -1,0 +1,12 @@
+name: Build and verify
+on:
+  push:
+    branches: ['**']
+  pull_request:
+jobs:
+  cpp17:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Compile and run deterministic checks
+        run: make test CXX=g++

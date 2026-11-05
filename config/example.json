@@ -1,0 +1,5 @@
+{
+  "judge_url": "http://judge.example:18080",
+  "user_id": "YOUR_USER_ID",
+  "submission_url": "http://judge.example:18080/submission/YOUR_SUBMISSION_ID"
+}
